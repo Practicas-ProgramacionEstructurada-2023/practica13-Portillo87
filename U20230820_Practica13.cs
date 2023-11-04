@@ -18,7 +18,6 @@ namespace MyApp// Note: actual namespace depends on the project name.
             notas_primercomputo[4] = 5.6;
             notas_primercomputo[5] = 8.9;
 
-
             //Lectura de arreglos
             string PrimeraPosicion = nombres[0]; //Juan
             string SegundaPosicion = nombres[1]; //Manuel
@@ -33,7 +32,6 @@ namespace MyApp// Note: actual namespace depends on the project name.
             double NotaCuartaPosicion = notas_primercomputo[3]; //10
             double NotaQuintaPosicion = notas_primercomputo[4]; //5.6
             double NotaUltimaPosicion = notas_primercomputo[5]; //8.9
-
 
             //Ordenamiento de arreglos
             Console.WriteLine("\n-----Mostrando los 6 alumnos de forma ascendente-----");
